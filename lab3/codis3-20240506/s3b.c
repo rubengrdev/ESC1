@@ -11,6 +11,6 @@ void main()
             max = vec[i];
         if (vec[i] < min)
             min = vec[i];
+        printf("\n%d %d\n", max, min);
     }
-    printf("\n%d %d\n", max, min);
-}   
+}
