@@ -1,5 +1,5 @@
 # Nombre del archivo ensamblador sin la extensión
-TARGET = test
+TARGET = tupla
 
 # Nombre del archivo objeto intermedio
 OBJ = s0.o
